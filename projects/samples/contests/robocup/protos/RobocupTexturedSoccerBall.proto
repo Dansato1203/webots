@@ -27,15 +27,12 @@ PROTO RobocupTexturedSoccerBall [
     scale %<= scale >% %<= scale >% %<= scale >%
     children [
       DEF BALL_SHAPE Shape {
-        appearance Appearance {
-          material Material {
-            ambientIntensity 0.4
-            diffuseColor IS color
-            shininess 0.8
-            specularColor 1 1 1
-          }
-          texture ImageTexture{
-			      url [ %<= '"textures/' + fields.texture.value + '.jpg"'>% ]
+       appearance PBRAppearance {
+          baseColor 0.8 0.8 0.8
+          roughness 0.5
+          metalness 0.1
+          baseColorMap ImageTexture{
+                              url [ %<= '"textures/' + fields.texture.value + '.jpg"'>% ]
           }
         }
         geometry Sphere {
