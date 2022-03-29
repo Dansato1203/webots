@@ -4,11 +4,11 @@
     "1": {
       "proto": "WolfgangRobocup",
       "halfTimeStartingPose": {
-        "translation": [-3.5, -3.1, 0.439],
+        "translation": [-3.5, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "reentryStartingPose": {
-        "translation": [-3.0, -3.11, 0.439],
+        "translation": [-3.0, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "shootoutStartingPose": {
@@ -23,11 +23,11 @@
     "2": {
       "proto": "WolfgangRobocup",
       "halfTimeStartingPose": {
-        "translation": [-3.5, 3.1, 0.439],
+        "translation": [-3.5, 3.15, 0.439],
         "rotation": [0, 0, 1, -1.57]
       },
       "reentryStartingPose": {
-        "translation": [-3.0, -3.11, 0.439],
+        "translation": [-3.0, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "shootoutStartingPose": {
@@ -42,11 +42,11 @@
     "3": {
       "proto": "WolfgangRobocup",
       "halfTimeStartingPose": {
-        "translation": [-0.75, -3.1, 0.439],
+        "translation": [-0.75, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "reentryStartingPose": {
-        "translation": [-3.0, -3.11, 0.439],
+        "translation": [-3.0, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "shootoutStartingPose": {
@@ -61,11 +61,11 @@
     "4": {
       "proto": "WolfgangRobocup",
       "halfTimeStartingPose": {
-        "translation": [-0.75, 3.1, 0.439],
+        "translation": [-0.75, 3.15, 0.439],
         "rotation": [0, 0, 1, -1.57]
       },
       "reentryStartingPose": {
-        "translation": [-3.0, -3.11, 0.439],
+        "translation": [-3.0, -3.15, 0.439],
         "rotation": [0, 0, 1, 1.57]
       },
       "shootoutStartingPose": {
