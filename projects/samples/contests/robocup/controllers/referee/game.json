@@ -9,7 +9,7 @@
   "use_bouncing_server": true,
   "red": {
     "id": 8,
-    "config": "01rfcberlin.json",
+    "config": "bit-bots.json",
     "hosts": [
       "127.0.0.1",
       "192.168.123.21",
